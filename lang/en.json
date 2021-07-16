@@ -1,3 +1,18 @@
 {
-    
+    "point-of-vision.token_setting": "Point of Vision",
+    "point-of-vision.default": "Token Default",
+    "point-of-vision.option.0": "Center",
+    "point-of-vision.option.group.corners": "Corners",
+    "point-of-vision.option.1": "Top Left",
+    "point-of-vision.option.2": "Top Right",
+    "point-of-vision.option.3": "Bottom Left",
+    "point-of-vision.option.4": "Bottom Right",
+    "point-of-vision.option.5": "All Corners + Center",
+    "point-of-vision.option.group.midpoints": "Midpoints",
+    "point-of-vision.option.6": "Top",
+    "point-of-vision.option.7": "Bottom",
+    "point-of-vision.option.8": "Left",
+    "point-of-vision.option.9": "Right",
+    "point-of-vision.option.10": "All Midpoints + Center",
+    "point-of-vision.expandVisibility": "Improved visibility checking"
 }

@@ -8,7 +8,7 @@
     "scripts": [],
     "styles": [],
     "compatibleCoreVersion": "0.8.8",
-    "minimumCoreVersion": "0.8.0",
+    "minimumCoreVersion": "0.7.0",
     "manifest": "https://raw.githubusercontent.com/brentleyjones/point-of-vision/master/module.json",
     "download": "https://github.com/brentleyjones/point-of-vision/archive/master.zip",
     "url": "https://github.com/brentleyjones/point-of-vision",
